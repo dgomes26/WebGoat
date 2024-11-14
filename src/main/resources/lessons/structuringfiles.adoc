@@ -1,0 +1,11 @@
+[source]
+----
+public class A {
+
+  private String test;
+}
+----
+<div class="lesson-page-wrapper">
+  <div class="adoc-content" th:replace="~{doc:lesson-template-video.adoc}"></div>
+  <div class="adoc-content" th:replace="~{doc:lesson-template-video-more.adoc}"></div>
+</div>
